@@ -43,6 +43,10 @@ Package Consultant 2 at **Infosys** · Fremont, CA · Open to onsite, hybrid or 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+IBM Rational Integration Test
+Testrail
+Jira
+qTest
 
 Also: Copado Robotic Testing · Playwright MCP · SoapUI · IBM RIT · IBM MQ · LoadRunner · Xray · qTest · TestRail · HP ALM
 

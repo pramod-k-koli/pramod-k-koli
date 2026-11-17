@@ -2,7 +2,7 @@
 
 ### Software QA Analyst & Tester | AI/GenAI, LLM, RAG & Agentic AI Testing
 
-Quality Engineering Lead at **Infosys** · Fremont, CA · Open to onsite, hybrid or remote
+Package Consultant 2 at **Infosys** · Fremont, CA · Open to onsite, hybrid or remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pramodkumar--koli-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodkumar-koli)
 [![Website](https://img.shields.io/badge/Website-pramodkoli.in-1E3A5F?logo=googlechrome&logoColor=white)](https://pramodkoli.in)
